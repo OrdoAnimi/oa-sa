@@ -55,7 +55,7 @@ OrdoAnimi Agentic Architect:
 https://framework.ordoanimi.com/
 
 EA Artefact Generator:
-https://ea.velocityarchitecture.com.au/
+https://ea.ordoanimi.com/
 
 OrdoAnimi:
 https://www.ordoanimi.com/
