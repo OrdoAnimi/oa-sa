@@ -47,7 +47,7 @@ The current repository provides a static framework site with:
   - Module 03 - Design
   - Module 04 - Artefacts
   - Module 05 - Communication
-  - Module 06 - Velocity Loop
+  - Module 06 - Decision Loop
 - Supplementary resources:
   - Workshop playbook
   - Escalation protocol
@@ -67,11 +67,11 @@ The current repository provides a static framework site with:
 
 ## Screenshots
 
-![OrdoAnimi Architecture home](docs/screenshots/vaf-sa-home.png)
+![OrdoAnimi Architecture home](docs/screenshots/oa-sa-home.png)
 
-![OrdoAnimi Architecture module view](docs/screenshots/vaf-sa-modules.png)
+![OrdoAnimi Architecture module view](docs/screenshots/oa-sa-modules.png)
 
-![OrdoAnimi Architecture practitioner view](docs/screenshots/vaf-sa-practitioner-view.png)
+![OrdoAnimi Architecture practitioner view](docs/screenshots/oa-sa-practitioner-view.png)
 
 ## How It Fits the Ecosystem
 
@@ -81,7 +81,7 @@ OrdoAnimi Architecture is the solution architecture delivery module of the broad
 - **OrdoAnimi Architecture** translates that context into field practice for solution architects.
 - **EA Artefact Generator** can support the creation of structured artefacts and export-ready architecture content aligned to the framework.
 - **PMO Portal** connects architecture decisions to delivery governance and execution visibility.
-- **Velocity Academy** provides learning, courses, certification, books, and practitioner pathways.
+- **OrdoAnimi Academy** provides learning, courses, certification, books, and practitioner pathways.
 
 OrdoAnimi Architecture should stay focused on practitioner guidance and solution architecture execution. It should link to the broader framework and tools rather than duplicate them.
 
@@ -112,7 +112,7 @@ Primary files:
 - `modules/module-03-design.html`
 - `modules/module-04-artefacts.html`
 - `modules/module-05-communication.html`
-- `modules/module-06-velocity-loop.html`
+- `modules/module-06-decision-loop.html`
 
 ## How to Run Locally
 

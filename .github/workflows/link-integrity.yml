@@ -26,7 +26,7 @@ jobs:
             '/worked-example.html'
             '/workshop-playbook.html'
             '/modules/module-01-orientation.html'
-            '/modules/module-06-velocity-loop.html'
+            '/modules/module-06-decision-loop.html'
             '/cloud-reference/'
             '/engagement-archetypes/silo.html'
           )

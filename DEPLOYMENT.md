@@ -8,7 +8,7 @@ Platform: GitHub Pages
 Source branch: main
 Site source: static site
 Build step: none
-Role: Velocity solution architecture practitioner method
+Role: Flow solution architecture practitioner method
 ```
 
 ## Hosting Model
@@ -34,7 +34,7 @@ modules/module-02-intelligence.html
 modules/module-03-design.html
 modules/module-04-artefacts.html
 modules/module-05-communication.html
-modules/module-06-velocity-loop.html
+modules/module-06-decision-loop.html
 ```
 
 ## Deployment Settings
