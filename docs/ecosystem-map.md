@@ -14,8 +14,8 @@ OrdoAnimi = commercial advisory front door, production studio, and enterprise
 OrdoAnimi Architecture = solution architecture field-practice method
 EA Artefact Generator = structured artefact generation workspace
 PMO Portal = delivery governance and mobilisation workspace
-Velocity Academy = learning, courses, certification, books, and practitioner pathways
-VSF Match = career readiness and capability-gap engine
+OrdoAnimi Academy = learning, courses, certification, books, and practitioner pathways
+OSF Match = career readiness and capability-gap engine
 ```
 
 ## Positioning
@@ -39,8 +39,8 @@ It is designed for engagements where:
 | OrdoAnimi Architecture | Solution architecture practitioner method | Converts framework thinking into field practice |
 | EA Artefact Generator | Artefact generation workspace | Can generate or support OrdoAnimi Architecture-aligned architecture outputs |
 | PMO Portal | Delivery governance workspace | Connects architecture decisions to delivery governance and execution visibility |
-| Velocity Academy | Learning and certification layer | Teaches framework, practice, and practitioner pathways |
-| VSF Match | Career readiness engine | Helps practitioners assess skills and learning gaps |
+| OrdoAnimi Academy | Learning and certification layer | Teaches framework, practice, and practitioner pathways |
+| OSF Match | Career readiness engine | Helps practitioners assess skills and learning gaps |
 
 ## Public Routes
 
@@ -51,7 +51,7 @@ https://architecture.ordoanimi.com/
 The OrdoAnimi Framework:
 https://framework.ordoanimi.com/
 
-VAF Agentic Architect:
+OrdoAnimi Agentic Architect:
 https://framework.ordoanimi.com/
 
 EA Artefact Generator:
